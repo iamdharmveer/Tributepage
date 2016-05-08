@@ -1,0 +1,13 @@
+body {background-color:wheat;
+    margin: 70px;
+   }
+h4{font-family:redserif;}
+h3{font-family:redserif;}
+h2{font-family:redserif;}
+h1{font-family:redserif;}
+.well{height:183px;
+border-color: springgreen;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 35%;}
+
